@@ -1,5 +1,7 @@
 # Run Away Robot with Unscented Kalman Filter Bonus Challenge Starter Code
 Self-Driving Car Engineer Nanodegree Program
+# This was a submission attempt for the Udacity Self Driving Car Engineer Program. The project is structured as follows:
+# Overview, Code, Code Description, Review on lessons learned.
 
 ---
 
